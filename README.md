@@ -107,9 +107,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdabubokar0&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabubokar0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdabubokar0" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imabu0&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imabu0&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabu0" alt="Streak Stats" />
 </p>
 
 ---
