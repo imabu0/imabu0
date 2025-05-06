@@ -7,9 +7,13 @@
   box-sizing: border-box;
   font-family: "Cascadia Code", monospace;
   scroll-behavior: smooth;
-  color: #67707a;
 }
 
 body {
   background-color: #1f1f1f;
+  color: #67707a;
+}
+
+.height{
+  height: calc(100vh - 32px);
 }
