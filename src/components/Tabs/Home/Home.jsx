@@ -90,7 +90,7 @@ export const Home = () => {
   }, []);
 
   return (
-    <div className="height w-full text-center border-b-[.5px] flex items-center justify-between sticky top-0 text-sm">
+    <div className="height w-full text-center border-b-[.5px] flex items-center justify-between text-sm">
       <div className="border-r-[.5px] h-full w-1/6 bg-[#181818]" />
 
       <div>
